@@ -51,14 +51,14 @@ footer {
     padding: 1rem;
 }
 body {
-    background-image: url('img\me5.jpg');
+    background-image: url('img/me5.jpg');
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
 }
 
 .hero {
-    background-image: url('img\me5.jpg');
+    background-image: url('img/me5.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
