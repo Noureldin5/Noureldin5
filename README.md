@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🎓 **Computer Science Student** at Ala-Too International University, Bishkek
 - 💼 Passionate about **Backend Development** and building robust web applications
@@ -46,8 +46,9 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Python Libraries
-![Socket](https://img.shields.io/badge/Socket_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Specializations
+![Socket Programming](https://img.shields.io/badge/Socket_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Network Programming](https://img.shields.io/badge/Network_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
